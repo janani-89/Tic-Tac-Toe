@@ -1,0 +1,28 @@
+#tic h3 {text-align:center; font-size:25px}
+.input-prepend {margin-bottom:10px}
+.clr {clear:both; height:0}
+.top{
+    text-align:center;
+}
+#tic{
+    width:220px;
+    margin:0 auto;
+}
+.top{
+    border: 1px solid black;
+    margin-bottom:10px;
+    height:40px;
+    padding:10px;
+}
+#tic #reset { 
+    padding:5px 10px; 
+    color:white; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:20px; 
+    float:left; 
+    text-align:center; 
+    text-transform:uppercase;  
+    width:150px;
+    position:absolute;
+}
+#tic #game li.disable{color:#fff}
